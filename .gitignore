@@ -1,0 +1,7 @@
+*.sln
+*.suo
+DI_IOC_Observer_CS/bin
+DI_IOC_Observer_CS/obj
+DI_IOC_Observer_CS/Properties
+DI_IOC_Observer_CS/DI_IOC_Observer_CS.csproj
+DI_IOC_Observer_CS/App.config
